@@ -161,3 +161,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.swp
+
+outputs*
+raw_data
+render/
+commands.txt
+=1.0.1
+pyproject.toml

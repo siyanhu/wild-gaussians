@@ -13,8 +13,8 @@ dependencies = []
 
 [project.optional-dependencies]
 local = [
-    "torch>=2.0.0,<2.1.0",
-    "numpy<2.0.0",
+    "torch>=2.0.0,<2.4.1",
+    "numpy",
     "omegaconf",
     "plyfile",
     "tqdm",
